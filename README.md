@@ -1,0 +1,1 @@
+# PHP-Class-test-One-solve-code
